@@ -12,30 +12,30 @@ Link to project: https://glitch.com/edit/#!/tranquil-succulent-equinox (insert y
 
 The following **required** functionality is complete:
 
-* [yes] Game interface has a heading (h1 tag), a line of body text (p tag), and four buttons that match the demo app
-* [yes] "Start" button toggles between "Start" and "Stop" when clicked. 
-* [yes] Game buttons each light up and play a sound when clicked. 
-* [yes] Computer plays back sequence of clues including sound and visual cue for each button
-* [yes] Play progresses to the next turn (the user gets the next step in the pattern) after a correct guess. 
-* [yes] User wins the game after guessing a complete pattern
-* [yes] User loses the game after an incorrect guess
+* [x] Game interface has a heading (h1 tag), a line of body text (p tag), and four buttons that match the demo app
+* [x] "Start" button toggles between "Start" and "Stop" when clicked. 
+* [x] Game buttons each light up and play a sound when clicked. 
+* [x] Computer plays back sequence of clues including sound and visual cue for each button
+* [x] Play progresses to the next turn (the user gets the next step in the pattern) after a correct guess. 
+* [x] User wins the game after guessing a complete pattern
+* [x] User loses the game after an incorrect guess
 
 The following **optional** features are implemented:
 
-* [yes] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
+* [x] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
 * [ ] Buttons use a pitch (frequency) other than the ones in the tutorial
 * [ ] More than 4 functional game buttons
-* [yes] Playback speeds up on each turn
-* [yes] Computer picks a different pattern each time the game is played
-* [yes] Player only loses after 3 mistakes (instead of on the first mistake)
-* [yes] Game button appearance change goes beyond color (e.g. add an image)
+* [x] Playback speeds up on each turn
+* [x] Computer picks a different pattern each time the game is played
+* [x] Player only loses after 3 mistakes (instead of on the first mistake)
+* [x] Game button appearance change goes beyond color (e.g. add an image)
   - after adding the images, I was only able to make the image appear when the player clicks the button. When the program shows the clue, images do not appear.
 * [ ] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
 * [ ] User has a limited amount of time to enter their guess on each turn
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app!
+- [x] List anything else that you can get done to improve the app!
   - Use the :hover selector to change the button's color to red when the mouse is moved over it.
 
 ## Video Walkthrough
